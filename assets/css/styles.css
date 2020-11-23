@@ -1,0 +1,168 @@
+body {
+  padding-top: 55px;
+  font-size: 18px !important;
+  overflow-x: hidden;
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #000 !important;
+  opacity: 0.8;
+}
+
+.nav-link {
+  color: #fff !important;
+  font-size: 13px;
+  text-align: center;
+}
+
+.navbar-brand .fa.fa-apple {
+  font-size: 25px !important;
+  line-height: 0;
+  margin-right: 60px !important;
+}
+
+.product {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.product h1 {
+  font-size: 72px;
+  font-weight: 700;
+}
+
+.product h2 {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.product .product-links {
+  font-size: 25px;
+  margin: 20px auto;
+  font-weight: 500;
+}
+
+.learn-more {
+  margin-right: 30px;
+}
+
+.img-fluid.iphonex-big-img {
+  margin-top: 50px;
+}
+
+.product.iphonex {
+  background-color: #f9f9f9;
+}
+
+.product.ipad {
+  background: #f5f5f5;
+}
+
+.product.macbook-pro {
+  color: #fff;
+  background: #131218;
+}
+
+.product-links.mackbookpro-links a {
+  color: #fff;
+}
+
+.product-small {
+  height: 580px;
+  padding-top: 40px;
+  /*margin: 0 0 10px 10px;*/
+  text-align: center;
+}
+
+.product-small h3 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.product-small h4 {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.product-small.product-two-right {
+  color: #fff;
+  padding-top: 435px;
+}
+
+.product-links.product-two-right-links a {
+  color: #fff;
+  font-size: 20px;
+}
+
+.col-md-6.product-four-right {
+  color: #fff;
+}
+
+.col-md-6.product-six-right h5 {
+  color: red;
+}
+
+@media (max-width: 575.98px) {
+  h1 {
+    font-size: 40px !important;
+  }
+}
+
+@media (max-width: 575.98px) {
+  h2 {
+    font-size: 20px !important;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .product-links a {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  h3 {
+    font-size: 30px !important;
+  }
+}
+
+@media (max-width: 575.98px) {
+  h4 {
+    font-size: 20px !important;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .product {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .product-small {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}
+
+.footer-links li a {
+  font-size: 16px !important;
+}
+
+@media (max-width: 575.98px) {
+  .footer-links li a {
+    font-size: 14px !important;
+  }
+}
+
+.col-6.col-md-3 h4 {
+  font-size: 18px;
+}
+
+@media (max-width: 575.98px) {
+  .col-6.col-md-3 h4 {
+    font-size: 16px !important;
+  }
+}
+
